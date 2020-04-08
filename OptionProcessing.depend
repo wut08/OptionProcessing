@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1586369925 source:c:\users\tong\desktop\c++odes\optionprocessing\main.cpp
+	<iostream>
+	"Observer.hpp"
+	<algorithm>
+	<vector>
+	<string>
+
+1586368501 c:\users\tong\desktop\c++odes\optionprocessing\observer.hpp
+	<set>
+	<memory>
+
